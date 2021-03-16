@@ -1,4 +1,8 @@
-import React from 'react'
+import React from 'react';
+
+
+
+
 const MyFullName = () =>
 {
 return(
@@ -8,5 +12,7 @@ return(
 
 </div>
 );
-export default MyFullName
+
  };
+export default MyFullName;
+ 
